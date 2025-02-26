@@ -1,3 +1,3 @@
 # Summary
 
-[Onchain Security Best Practices](./index.md)
+[On-chain Security Best Practices](./index.md)
